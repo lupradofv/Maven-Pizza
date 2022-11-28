@@ -1,0 +1,4 @@
+,Data Type,Data Count,Null Count,Null Percentage (%),NaN Count,NaN Percentage (%),Unique Values
+order_id,int64,21350,0,0.0,0,0.0,21350
+date,object,18997,2353,12.386166236774228,2353,12.386166236774228,5065
+time,object,19312,2038,10.553024026512013,2038,10.553024026512013,10689

@@ -1,0 +1,5 @@
+,Data Type,Data Count,Null Count,Null Percentage (%),NaN Count,NaN Percentage (%),Unique Values
+order_details_id,int64,48620,0,0.0,0,0.0,48620
+order_id,int64,48620,0,0.0,0,0.0,21350
+pizza_id,object,48620,0,0.0,0,0.0,91
+quantity,int64,48620,0,0.0,0,0.0,4

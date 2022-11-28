@@ -1,0 +1,5 @@
+,Data Type,Data Count,Null Count,Null Percentage (%),NaN Count,NaN Percentage (%),Unique Values
+pizza_id,object,96,0,0.0,0,0.0,96
+pizza_type_id,object,96,0,0.0,0,0.0,32
+size,object,96,0,0.0,0,0.0,5
+price,float64,96,0,0.0,0,0.0,27
