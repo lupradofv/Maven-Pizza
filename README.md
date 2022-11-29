@@ -39,3 +39,11 @@ Generar un Data Frame que contenga los ingredientes junto con su stock semanal: 
 # ARCHIVO XML
 
 El repositorio dispone además del código necesario para generar un reporte de tipología de datos en formato XML.
+
+# ARCHIVO EXCEL
+
+Incluye un reporte ejecutivo, un reporte de ingredientes y un reporte de pedidos para los datos registrados sobre ventas y existencias de Maven Pizzas (2016).
+
+# ARCHIVO PDF
+
+Reporte ejecutivo para el COO de Maven Pizzas: abarca las existencias necesarias por mes (2016) y los ingresos generados mediante la venta de cada tipo de pizza (2016).
