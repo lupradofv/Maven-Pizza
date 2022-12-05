@@ -1,0 +1,14 @@
+pandas==1.4.1
+regex==2022.9.13
+arabic-reshaper==2.1.4
+asn1crypto==1.5.1
+async-generator==1.10
+html5lib==1.1
+htmlmin==0.1.12
+img2pdf==0.4.4
+matplotlib==3.5.3
+matplotlib-inline==0.1.6
+numpy==1.22.2
+PyPDF2==2.11.1
+PyPDF3==1.0.6
+xhtml2pdf==0.2.8
